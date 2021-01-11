@@ -7,7 +7,7 @@ title: About Me
 
 ## Simon Ma
 
-![profilepic](https://masiiimon.netlify.app/static/014bc3f69af3f3e01ff707fd20ef089d/a7bcd/profilepic.png "profilepic")
+![](/assets/profilepic.png)
 
 I am a college student who loves working with technology.
 
