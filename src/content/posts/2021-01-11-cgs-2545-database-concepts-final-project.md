@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: CGS 2545 Database Concepts - Final Project
-slug: databasefinal
+slug: /databasefinal
 date: 2021-01-11 17:38
 description: CGS 2545 Database Concepts Final Project
 featuredImage: /assets/switchboard.png
