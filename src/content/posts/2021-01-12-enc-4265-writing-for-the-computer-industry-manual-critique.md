@@ -4,6 +4,7 @@ title: ENC 4265 Writing for the Computer Industry - Manual Critique
 slug: /manualcritique
 date: 2021-01-12 12:01
 description: supermicro manual critique enc 4265 computer industry writing
+featuredImage: /assets/critique7.png
 ---
 The “Writing for the Computer Industry” course has shown many techniques and values that are important when writing and designing for online content effectively. The course’s lessons will be used to analyze and criticize a tutorial to assess the effectiveness of a published tutorial for the sake of the class’s last assignment. 
 
