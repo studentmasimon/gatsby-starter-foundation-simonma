@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Course List of Simon Ma
-slug: courselist
+slug: /courselist
 date: 2021-01-11 17:16
 description: Course List college classes
 ---
